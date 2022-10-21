@@ -203,7 +203,7 @@ namespace FileBackup
 			this.HelpButton = true;
 			this.KeyPreview = true;
 			this.Name = "FileBackup";
-			this.Text = "FileBackup";
+			this.Text = "File Backup";
 			this.tableLayoutPanel1.ResumeLayout(false);
 			this.tableLayoutPanel2.ResumeLayout(false);
 			this.destinationLayoutPanel.ResumeLayout(false);
